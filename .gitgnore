@@ -1,0 +1,4 @@
+# .gitignore
+node_modules
+*.log
+# Add other files/folders you don't want in Git (e.g., .env)
