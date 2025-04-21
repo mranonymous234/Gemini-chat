@@ -1,4 +1,4 @@
-// package.json excerpt
+
 {
   "name": "firebase-node-chat",
   "version": "1.0.0",
@@ -6,16 +6,15 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js" // <-- Add this line
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2" // Use your installed version
+    "express": "^4.18.2"
   },
-  // Optional but recommended: Specify Node version
   "engines": {
-     "node": "18.x" // Or "20.x", etc. Choose a version supported by Render
+     "node": "18.x"
   }
 }
